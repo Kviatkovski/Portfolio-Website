@@ -1,6 +1,6 @@
 const TabButton = ({ active, selectTab, children }) => {
   const buttonClasses = active
-    ? 'text-white border-b border-blue-500'
+    ? 'text-white border-b border-green-500'
     : 'text-[#ADB7BE]';
 
   return (
